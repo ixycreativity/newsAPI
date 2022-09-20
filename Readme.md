@@ -1,0 +1,4 @@
+- Access asyncronous a free news Api
+- Create a select with the categories fetched from news API
+- Show news in the selected category every time a new option is selected
+- Minimalist responsive design.
